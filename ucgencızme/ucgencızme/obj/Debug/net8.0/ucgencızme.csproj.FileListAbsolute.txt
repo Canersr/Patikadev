@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\bin\Debug\net8.0\ucgencızme.exe
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\bin\Debug\net8.0\ucgencızme.deps.json
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\bin\Debug\net8.0\ucgencızme.runtimeconfig.json
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\bin\Debug\net8.0\ucgencızme.dll
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\bin\Debug\net8.0\ucgencızme.pdb
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\ucgencızme.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\ucgencızme.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\ucgencızme.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\ucgencızme.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\ucgencızme.dll
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\refint\ucgencızme.dll
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\ucgencızme.pdb
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\ucgencızme.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\ucgencızme\ucgencızme\obj\Debug\net8.0\ref\ucgencızme.dll
