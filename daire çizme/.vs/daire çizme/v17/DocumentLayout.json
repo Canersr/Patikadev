@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Patika.dev\\winform\\daire \u00E7izme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{077099C1-1383-4A6F-B9E2-288DF691B452}|daire \u00E7izme\\daire \u00E7izme.csproj|d:\\.net patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077099C1-1383-4A6F-B9E2-288DF691B452}|daire \u00E7izme\\daire \u00E7izme.csproj|solutionrelative:daire \u00E7izme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077099C1-1383-4A6F-B9E2-288DF691B452}|daire \u00E7izme\\daire \u00E7izme.csproj|d:\\.net patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\services\\kullanicigirdisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077099C1-1383-4A6F-B9E2-288DF691B452}|daire \u00E7izme\\daire \u00E7izme.csproj|solutionrelative:daire \u00E7izme\\services\\kullanicigirdisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077099C1-1383-4A6F-B9E2-288DF691B452}|daire \u00E7izme\\daire \u00E7izme.csproj|d:\\.net patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\services\\dairecizici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077099C1-1383-4A6F-B9E2-288DF691B452}|daire \u00E7izme\\daire \u00E7izme.csproj|solutionrelative:daire \u00E7izme\\services\\dairecizici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kullanicigirdisi.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\Services\\kullanicigirdisi.cs",
+              "RelativeDocumentMoniker": "daire \u00E7izme\\Services\\kullanicigirdisi.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\Services\\kullanicigirdisi.cs",
+              "RelativeToolTip": "daire \u00E7izme\\Services\\kullanicigirdisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:22:26.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dairecizici.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\Services\\dairecizici.cs",
+              "RelativeDocumentMoniker": "daire \u00E7izme\\Services\\dairecizici.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\Services\\dairecizici.cs",
+              "RelativeToolTip": "daire \u00E7izme\\Services\\dairecizici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:22:10.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\Program.cs",
+              "RelativeDocumentMoniker": "daire \u00E7izme\\Program.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\daire \u00E7izme\\daire \u00E7izme\\Program.cs",
+              "RelativeToolTip": "daire \u00E7izme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:21:37.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\daire çizme.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\daire çizme.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\daire çizme.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\daire çizme.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\bin\Debug\net8.0\daire çizme.exe
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\bin\Debug\net8.0\daire çizme.deps.json
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\bin\Debug\net8.0\daire çizme.runtimeconfig.json
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\bin\Debug\net8.0\daire çizme.dll
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\bin\Debug\net8.0\daire çizme.pdb
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\daire çizme.dll
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\refint\daire çizme.dll
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\daire çizme.pdb
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\daire çizme.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\daire çizme\daire çizme\obj\Debug\net8.0\ref\daire çizme.dll
