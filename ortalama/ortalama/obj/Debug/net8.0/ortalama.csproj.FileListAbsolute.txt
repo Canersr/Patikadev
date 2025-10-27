@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\ortalama\ortalama\bin\Debug\net8.0\ortalama.exe
+D:\.NET Patika.dev\winform\ortalama\ortalama\bin\Debug\net8.0\ortalama.deps.json
+D:\.NET Patika.dev\winform\ortalama\ortalama\bin\Debug\net8.0\ortalama.runtimeconfig.json
+D:\.NET Patika.dev\winform\ortalama\ortalama\bin\Debug\net8.0\ortalama.dll
+D:\.NET Patika.dev\winform\ortalama\ortalama\bin\Debug\net8.0\ortalama.pdb
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\ortalama.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\ortalama.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\ortalama.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\ortalama.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\ortalama.dll
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\refint\ortalama.dll
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\ortalama.pdb
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\ortalama.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\ortalama\ortalama\obj\Debug\net8.0\ref\ortalama.dll

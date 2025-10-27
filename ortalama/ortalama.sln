@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ortalama", "ortalama\ortalama.csproj", "{625D3D4B-2392-4F3E-98E2-751690760EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625D3D4B-2392-4F3E-98E2-751690760EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625D3D4B-2392-4F3E-98E2-751690760EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625D3D4B-2392-4F3E-98E2-751690760EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625D3D4B-2392-4F3E-98E2-751690760EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B748AF1-7958-407A-87F2-52FCC83769B0}
+	EndGlobalSection
+EndGlobal
