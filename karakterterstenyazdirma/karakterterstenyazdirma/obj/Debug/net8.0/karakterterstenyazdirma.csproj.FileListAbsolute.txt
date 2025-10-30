@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\bin\Debug\net8.0\karakterterstenyazdirma.exe
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\bin\Debug\net8.0\karakterterstenyazdirma.deps.json
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\bin\Debug\net8.0\karakterterstenyazdirma.runtimeconfig.json
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\bin\Debug\net8.0\karakterterstenyazdirma.dll
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\bin\Debug\net8.0\karakterterstenyazdirma.pdb
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\karakterterstenyazdirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\karakterterstenyazdirma.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\karakterterstenyazdirma.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\karakterterstenyazdirma.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\karakterterstenyazdirma.dll
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\refint\karakterterstenyazdirma.dll
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\karakterterstenyazdirma.pdb
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\karakterterstenyazdirma.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\karakterterstenyazdirma\karakterterstenyazdirma\obj\Debug\net8.0\ref\karakterterstenyazdirma.dll
