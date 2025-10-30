@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\bin\Debug\net8.0\karakter değiştirme.exe
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\bin\Debug\net8.0\karakter değiştirme.deps.json
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\bin\Debug\net8.0\karakter değiştirme.runtimeconfig.json
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\bin\Debug\net8.0\karakter değiştirme.dll
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\bin\Debug\net8.0\karakter değiştirme.pdb
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\karakter değiştirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\karakter değiştirme.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\karakter değiştirme.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\karakter değiştirme.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\karakter değiştirme.dll
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\refint\karakter değiştirme.dll
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\karakter değiştirme.pdb
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\karakter değiştirme.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\karakter değiştirme\karakter değiştirme\obj\Debug\net8.0\ref\karakter değiştirme.dll
