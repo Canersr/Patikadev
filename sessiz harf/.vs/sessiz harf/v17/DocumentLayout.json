@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Patika.dev\\winform\\sessiz harf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B74BDC1-5B81-44E2-8130-FD7B1A692736}|sessiz harf\\sessiz harf.csproj|d:\\.net patika.dev\\winform\\sessiz harf\\sessiz harf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B74BDC1-5B81-44E2-8130-FD7B1A692736}|sessiz harf\\sessiz harf.csproj|solutionrelative:sessiz harf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\sessiz harf\\sessiz harf\\Program.cs",
+              "RelativeDocumentMoniker": "sessiz harf\\Program.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\sessiz harf\\sessiz harf\\Program.cs",
+              "RelativeToolTip": "sessiz harf\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:25:33.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

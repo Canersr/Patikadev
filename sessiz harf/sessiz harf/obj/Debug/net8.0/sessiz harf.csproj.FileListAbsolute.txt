@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\bin\Debug\net8.0\sessiz harf.exe
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\bin\Debug\net8.0\sessiz harf.deps.json
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\bin\Debug\net8.0\sessiz harf.runtimeconfig.json
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\bin\Debug\net8.0\sessiz harf.dll
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\bin\Debug\net8.0\sessiz harf.pdb
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\sessiz harf.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\sessiz harf.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\sessiz harf.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\sessiz harf.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\sessiz harf.dll
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\refint\sessiz harf.dll
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\sessiz harf.pdb
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\sessiz harf.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\sessiz harf\sessiz harf\obj\Debug\net8.0\ref\sessiz harf.dll
