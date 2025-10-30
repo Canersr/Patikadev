@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mutlak kare alma/1.0.0": {
+        "runtime": {
+          "mutlak kare alma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mutlak kare alma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

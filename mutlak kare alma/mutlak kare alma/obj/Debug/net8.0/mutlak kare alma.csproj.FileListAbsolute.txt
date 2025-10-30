@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\bin\Debug\net8.0\mutlak kare alma.exe
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\bin\Debug\net8.0\mutlak kare alma.deps.json
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\bin\Debug\net8.0\mutlak kare alma.runtimeconfig.json
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\bin\Debug\net8.0\mutlak kare alma.dll
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\bin\Debug\net8.0\mutlak kare alma.pdb
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\mutlak kare alma.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\mutlak kare alma.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\mutlak kare alma.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\mutlak kare alma.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\mutlak kare alma.dll
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\refint\mutlak kare alma.dll
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\mutlak kare alma.pdb
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\mutlak kare alma.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\mutlak kare alma\mutlak kare alma\obj\Debug\net8.0\ref\mutlak kare alma.dll
