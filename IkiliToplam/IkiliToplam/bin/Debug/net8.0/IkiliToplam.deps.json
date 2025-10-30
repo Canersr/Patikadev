@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IkiliToplam/1.0.0": {
+        "runtime": {
+          "IkiliToplam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IkiliToplam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

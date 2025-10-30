@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\bin\Debug\net8.0\IkiliToplam.exe
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\bin\Debug\net8.0\IkiliToplam.deps.json
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\bin\Debug\net8.0\IkiliToplam.runtimeconfig.json
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\bin\Debug\net8.0\IkiliToplam.dll
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\bin\Debug\net8.0\IkiliToplam.pdb
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\IkiliToplam.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\IkiliToplam.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\IkiliToplam.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\IkiliToplam.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\IkiliToplam.dll
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\refint\IkiliToplam.dll
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\IkiliToplam.pdb
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\IkiliToplam.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\IkiliToplam\IkiliToplam\obj\Debug\net8.0\ref\IkiliToplam.dll
