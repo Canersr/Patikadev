@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\alanhesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\alanhesaplama.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\alanhesaplama.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\alanhesaplama.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\bin\Debug\net8.0\alanhesaplama.exe
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\bin\Debug\net8.0\alanhesaplama.deps.json
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\bin\Debug\net8.0\alanhesaplama.runtimeconfig.json
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\bin\Debug\net8.0\alanhesaplama.dll
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\bin\Debug\net8.0\alanhesaplama.pdb
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\alanhesaplama.dll
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\refint\alanhesaplama.dll
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\alanhesaplama.pdb
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\alanhesaplama.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\alanhesaplama\alanhesaplama\obj\Debug\net8.0\ref\alanhesaplama.dll
