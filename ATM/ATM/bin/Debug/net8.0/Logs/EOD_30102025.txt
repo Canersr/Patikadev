@@ -1,0 +1,8 @@
+=== GÜN SONU RAPORU ===
+Tarih: 30.10.2025 23:36:42
+
+--- Gerçekleşen İşlemler ---
+30.10.2025 23:36:30 - caner - Para Yatırma - 2000 TL
+30.10.2025 23:36:39 - caner - Para Çekme - 1500 TL
+
+--- Hatalı Girişler ---

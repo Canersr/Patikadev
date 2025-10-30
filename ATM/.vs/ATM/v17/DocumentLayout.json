@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Patika.dev\\winform\\ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|d:\\.net patika.dev\\winform\\atm\\atm\\logs\\eod_30102025.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|solutionrelative:atm\\logs\\eod_30102025.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|d:\\.net patika.dev\\winform\\atm\\atm\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|solutionrelative:atm\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|d:\\.net patika.dev\\winform\\atm\\atm\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|solutionrelative:atm\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|d:\\.net patika.dev\\winform\\atm\\atm\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|solutionrelative:atm\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|d:\\.net patika.dev\\winform\\atm\\atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|d:\\.net patika.dev\\winform\\atm\\atm\\atm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98DABA89-ACA4-40DF-9236-A19B9B225336}|ATM\\ATM.csproj|solutionrelative:atm\\atm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EOD_30102025.txt",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\Logs\\EOD_30102025.txt",
+              "RelativeDocumentMoniker": "ATM\\Logs\\EOD_30102025.txt",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\Logs\\EOD_30102025.txt",
+              "RelativeToolTip": "ATM\\Logs\\EOD_30102025.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-30T20:35:21.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ATM",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\ATM.csproj",
+              "RelativeDocumentMoniker": "ATM\\ATM.csproj",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\ATM.csproj",
+              "RelativeToolTip": "ATM\\ATM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T20:34:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Islem.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\Islem.cs",
+              "RelativeDocumentMoniker": "ATM\\Islem.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\Islem.cs",
+              "RelativeToolTip": "ATM\\Islem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:34:54.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATM.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\ATM.cs",
+              "RelativeDocumentMoniker": "ATM\\ATM.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\ATM.cs",
+              "RelativeToolTip": "ATM\\ATM.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:34:42.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\Kullanici.cs",
+              "RelativeDocumentMoniker": "ATM\\Kullanici.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\Kullanici.cs",
+              "RelativeToolTip": "ATM\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:34:29.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\Program.cs",
+              "RelativeDocumentMoniker": "ATM\\Program.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\ATM\\ATM\\Program.cs",
+              "RelativeToolTip": "ATM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:33:57.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
