@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\Voting\Voting\bin\Debug\net8.0\Voting.exe
+D:\.NET Patika.dev\winform\Voting\Voting\bin\Debug\net8.0\Voting.deps.json
+D:\.NET Patika.dev\winform\Voting\Voting\bin\Debug\net8.0\Voting.runtimeconfig.json
+D:\.NET Patika.dev\winform\Voting\Voting\bin\Debug\net8.0\Voting.dll
+D:\.NET Patika.dev\winform\Voting\Voting\bin\Debug\net8.0\Voting.pdb
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\Voting.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\Voting.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\Voting.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\Voting.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\Voting.dll
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\refint\Voting.dll
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\Voting.pdb
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\Voting.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\Voting\Voting\obj\Debug\net8.0\ref\Voting.dll

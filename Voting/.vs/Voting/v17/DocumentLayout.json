@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Patika.dev\\winform\\Voting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AE8476-12EE-4422-B16D-5E51B4B33C25}|Voting\\Voting.csproj|d:\\.net patika.dev\\winform\\voting\\voting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AE8476-12EE-4422-B16D-5E51B4B33C25}|Voting\\Voting.csproj|solutionrelative:voting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET Patika.dev\\winform\\Voting\\Voting\\Program.cs",
+              "RelativeDocumentMoniker": "Voting\\Program.cs",
+              "ToolTip": "D:\\.NET Patika.dev\\winform\\Voting\\Voting\\Program.cs",
+              "RelativeToolTip": "Voting\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:28:54.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
