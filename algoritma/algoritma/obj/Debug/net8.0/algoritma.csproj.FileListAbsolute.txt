@@ -1,0 +1,14 @@
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\algoritma.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\algoritma.AssemblyInfoInputs.cache
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\algoritma.AssemblyInfo.cs
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\algoritma.csproj.CoreCompileInputs.cache
+D:\.NET Patika.dev\winform\algoritma\algoritma\bin\Debug\net8.0\algoritma.exe
+D:\.NET Patika.dev\winform\algoritma\algoritma\bin\Debug\net8.0\algoritma.deps.json
+D:\.NET Patika.dev\winform\algoritma\algoritma\bin\Debug\net8.0\algoritma.runtimeconfig.json
+D:\.NET Patika.dev\winform\algoritma\algoritma\bin\Debug\net8.0\algoritma.dll
+D:\.NET Patika.dev\winform\algoritma\algoritma\bin\Debug\net8.0\algoritma.pdb
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\algoritma.dll
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\refint\algoritma.dll
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\algoritma.pdb
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\algoritma.genruntimeconfig.cache
+D:\.NET Patika.dev\winform\algoritma\algoritma\obj\Debug\net8.0\ref\algoritma.dll
